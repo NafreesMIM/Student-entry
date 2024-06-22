@@ -1,0 +1,10 @@
+D:\Projects\Student Project\bin\Debug\Student Project.exe.config
+D:\Projects\Student Project\bin\Debug\Student Project.exe
+D:\Projects\Student Project\bin\Debug\Student Project.pdb
+D:\Projects\Student Project\obj\Debug\Student Project.csproj.AssemblyReference.cache
+D:\Projects\Student Project\obj\Debug\Student_Project.Form1.resources
+D:\Projects\Student Project\obj\Debug\Student_Project.Properties.Resources.resources
+D:\Projects\Student Project\obj\Debug\Student Project.csproj.GenerateResource.cache
+D:\Projects\Student Project\obj\Debug\Student Project.csproj.CoreCompileInputs.cache
+D:\Projects\Student Project\obj\Debug\Student Project.exe
+D:\Projects\Student Project\obj\Debug\Student Project.pdb
